@@ -126,10 +126,10 @@ if (mysqli_connect_errno()) {
                 }
 
     ?>
-    <footer id="footer">
+    <!-- <footer id="footer">
         <div id="bottom">
             <div class="scholarly">
-                <a href="#">Scholarly HTML</a>
+                <a href="#">Get in touch</a>
             </div>
             <span id="line1"> | </span>
             <div class="contact">
@@ -137,11 +137,11 @@ if (mysqli_connect_errno()) {
             </div>
         </div>
         <span id="line2">
-            Created by Andrei Mireuta & Adrian Cojocaru
+            Created by Andrei Mireuta 
         </span>
 
 
-    </footer>
+    </footer> -->
     <script src="js_scripts/product.js"></script>
     <script src="js_scripts/shop.js"></script>
 </body>
